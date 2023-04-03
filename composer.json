@@ -1,0 +1,19 @@
+{
+    "name": "zaenal/php-dasar",
+    "description": "belajar php",
+    "autoload": {
+        "psr-4": {
+            "Zaenal\\PhpDasar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZaenalMaestro",
+            "email": "zaenal.official.1@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+    }
+}
